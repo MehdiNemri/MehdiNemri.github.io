@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Mon Portfolio</title>
+    <title>Mon Portfolio</title>
 </head>
 <body>
     <h1>Bienvenue sur mon site personnel</h1>
