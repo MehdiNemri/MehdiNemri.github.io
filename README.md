@@ -1,11 +1,11 @@
-#Mehdi Nemri
+# 👋 Mehdi Nemri
 
-### Math-driven Data Scientist & AI Engineer  
+### 🧠 Math-driven Data Scientist & AI Engineer  
 *Turning theory into real-world AI applications.*
 
 Welcome to my personal space on GitHub.  
 My work centers on **Data Science & Artificial Intelligence**, supported by a strong **mathematical foundation**.  
-Here, I share my projects, research, and professional experience.
+Here, I share my projects and research.
 
 ---
 
